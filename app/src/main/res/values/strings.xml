@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">割り勘計算</string>
+    <string name="action_settings">Settings</string>
+    <string name="fraction">端数</string>
+    <string name="dlg_fraction_title">端数を選択してください</string>
+    <string name="roundup_title">端数切り上げ</string>
+    <string name="setting_name">設定</string>
+</resources>
